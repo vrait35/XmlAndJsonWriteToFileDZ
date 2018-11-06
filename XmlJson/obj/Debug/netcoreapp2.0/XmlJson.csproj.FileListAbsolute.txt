@@ -1,0 +1,11 @@
+C:\Users\anuar\source\repos\XmlJson\XmlJson\bin\Debug\netcoreapp2.0\XmlJson.deps.json
+C:\Users\anuar\source\repos\XmlJson\XmlJson\bin\Debug\netcoreapp2.0\XmlJson.runtimeconfig.json
+C:\Users\anuar\source\repos\XmlJson\XmlJson\bin\Debug\netcoreapp2.0\XmlJson.runtimeconfig.dev.json
+C:\Users\anuar\source\repos\XmlJson\XmlJson\bin\Debug\netcoreapp2.0\XmlJson.dll
+C:\Users\anuar\source\repos\XmlJson\XmlJson\bin\Debug\netcoreapp2.0\XmlJson.pdb
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.AssemblyInfoInputs.cache
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.AssemblyInfo.cs
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.dll
+C:\Users\anuar\source\repos\XmlJson\XmlJson\obj\Debug\netcoreapp2.0\XmlJson.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Baskets>
+  <user login="anuar.temirbolat">
+    <price>90</price>
+    <product>картошка</product>
+  </user>
+  <user login="anuar.temirbolat">
+    <price>400</price>
+    <product>Огурцы</product>
+  </user>
+  <user login="temirbolat.anuar">
+    <price>90</price>
+    <product>картошка</product>
+  </user>
+  <user login="temirbolat.anuar">
+    <price>400</price>
+    <product>Огурцы</product>
+  </user>
+</Baskets>
